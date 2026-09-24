@@ -1,0 +1,279 @@
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\omryild.exe.config
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omryild.exe
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omryild.pdb
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\omryild.exe
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\omryild.pdb
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\bin\Debug\stdole.dll
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\OmrYild.csprojResolveAssemblyReference.cache
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omryild.Properties.Resources.resources
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\OmrYild.csproj.GenerateResource.Cache
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omryild.acilis.resources
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omrYild.biletguncelle.resources
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omrYild.biletkayit.resources
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omrYild.Form1.resources
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omrYild.dortlu.resources
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omrYild.liste.resources
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omrYild.seferguncelle.resources
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omrYild.uclu.resources
+C:\Users\kadirbusra\Desktop\ayanTur\ayanTur\obj\Debug\omrYild.yenisefer.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\omryild.exe.config
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omryild.exe
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omryild.pdb
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\omryild.exe
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\omryild.pdb
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\stdole.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\OmrYild.csprojResolveAssemblyReference.cache
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omryild.acilis.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omrYild.biletguncelle.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omrYild.biletkayit.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omrYild.Form1.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omrYild.dortlu.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omrYild.liste.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omryild.Properties.Resources.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omrYild.seferguncelle.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omrYild.uclu.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\omrYild.yenisefer.resources
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\OmrYild.csproj.GenerateResource.Cache
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\MySql.Data.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\MySql.Web.dll
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\MySql.Data.xml
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\bin\Debug\MySql.Web.xml
+C:\Users\kadirbusra\Desktop\ayanTur\omrYild\obj\Debug\OmrYild.csproj.omryild.exe.config
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\omryild.exe.config
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omryild.exe
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omryild.pdb
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\omryild.exe
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\omryild.pdb
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\MySql.Data.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\MySql.Web.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\stdole.dll
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\MySql.Data.xml
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\kadirbusra\Desktop\projem\omrYild\bin\Debug\MySql.Web.xml
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\OmrYild.csprojResolveAssemblyReference.cache
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\OmrYild.csproj.omryild.exe.config
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omryild.acilis.resources
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omrYild.biletguncelle.resources
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omrYild.biletkayit.resources
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omrYild.Form1.resources
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omrYild.dortlu.resources
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omrYild.liste.resources
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omryild.Properties.Resources.resources
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omrYild.seferguncelle.resources
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omrYild.uclu.resources
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\omrYild.yenisefer.resources
+C:\Users\kadirbusra\Desktop\projem\omrYild\obj\Debug\OmrYild.csproj.GenerateResource.Cache
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\omryild.exe.config
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omryild.exe
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omryild.pdb
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\omryild.exe
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\omryild.pdb
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\MySql.Data.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\MySql.Web.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\stdole.dll
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\MySql.Data.xml
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\kadirbusra\Desktop\projems\omrYild\bin\Debug\MySql.Web.xml
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\OmrYild.csprojResolveAssemblyReference.cache
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\OmrYild.csproj.omryild.exe.config
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omryild.acilis.resources
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omrYild.biletguncelle.resources
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omrYild.biletkayit.resources
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omrYild.Form1.resources
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omrYild.dortlu.resources
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omrYild.liste.resources
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omryild.Properties.Resources.resources
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omrYild.seferguncelle.resources
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omrYild.uclu.resources
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\omrYild.yenisefer.resources
+C:\Users\kadirbusra\Desktop\projems\omrYild\obj\Debug\OmrYild.csproj.GenerateResource.Cache
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\omryild.exe.config
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omryild.exe
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omryild.pdb
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\omryild.exe
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\omryild.pdb
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\MySql.Data.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\MySql.Web.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\stdole.dll
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\MySql.Data.xml
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\bin\Debug\MySql.Web.xml
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\OmrYild.csprojResolveAssemblyReference.cache
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\OmrYild.csproj.omryild.exe.config
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omryild.acilis.resources
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omrYild.biletguncelle.resources
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omrYild.biletkayit.resources
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omrYild.Form1.resources
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omrYild.dortlu.resources
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omrYild.liste.resources
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omryild.Properties.Resources.resources
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omrYild.seferguncelle.resources
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omrYild.uclu.resources
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\omrYild.yenisefer.resources
+C:\Users\kadirbusra\Desktop\c projem acces\omrYild\obj\Debug\OmrYild.csproj.GenerateResource.Cache
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\omryild.exe.config
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omryild.exe
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omryild.pdb
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\omryild.exe
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\omryild.pdb
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\MySql.Data.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\MySql.Data.Entity.EF6.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\MySql.Web.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\ShockwaveFlashObjects.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\stdole.dll
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\MySql.Data.xml
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\MySql.Data.Entity.EF6.xml
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+H:\sınav projelerim\c# bilet 4.5\omrYild\bin\Debug\MySql.Web.xml
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\OmrYild.csprojResolveAssemblyReference.cache
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\OmrYild.csproj.omryild.exe.config
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omryild.acilis.resources
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omrYild.biletguncelle.resources
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omrYild.biletkayit.resources
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omrYild.Form1.resources
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omrYild.dortlu.resources
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omrYild.liste.resources
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omryild.Properties.Resources.resources
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omrYild.seferguncelle.resources
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omrYild.uclu.resources
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\omrYild.yenisefer.resources
+H:\sınav projelerim\c# bilet 4.5\omrYild\obj\Debug\OmrYild.csproj.GenerateResource.Cache
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\omryild.exe.config
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omryild.exe
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omryild.pdb
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\omryild.exe
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\omryild.pdb
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\MySql.Data.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\MySql.Data.Entity.EF6.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\MySql.Web.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\ShockwaveFlashObjects.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\stdole.dll
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\MySql.Data.xml
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\MySql.Data.Entity.EF6.xml
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+H:\sınav projelerim\cbilet\omrYild\bin\Debug\MySql.Web.xml
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\OmrYild.csprojResolveAssemblyReference.cache
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\OmrYild.csproj.omryild.exe.config
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omryild.acilis.resources
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omrYild.biletguncelle.resources
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omrYild.biletkayit.resources
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omrYild.Form1.resources
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omrYild.dortlu.resources
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omrYild.liste.resources
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omryild.Properties.Resources.resources
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omrYild.seferguncelle.resources
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omrYild.uclu.resources
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\omrYild.yenisefer.resources
+H:\sınav projelerim\cbilet\omrYild\obj\Debug\OmrYild.csproj.GenerateResource.Cache
+G:\sınav projelerim\Bitenler\cbilet\omrYild\bin\Debug\omryild.exe.config
+G:\sınav projelerim\Bitenler\cbilet\omrYild\obj\Debug\omryild.exe
+G:\sınav projelerim\Bitenler\cbilet\omrYild\obj\Debug\omryild.pdb

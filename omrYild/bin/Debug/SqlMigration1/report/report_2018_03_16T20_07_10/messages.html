@@ -1,0 +1,310 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <Meta content="IE=EmulateIE9" http-equiv="X-UA-Compatible"></Meta>
+    <Meta content="text/html;charset=UTF-8" http-equiv="Content-Type"></Meta>
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/messages.js"></script>
+    <link media="all" rel="stylesheet" type="text/css" href="css/messages.css"></link>
+  </head>
+  <body STYLE="width:100%;" onload="javascript:init();reloadSavedRequisites();" scroll="no" onresize="buttonStatusReset();init();">
+    <table width="100%" height="10px" cellpadding="0" cellspacing="0">
+      <tr valign="middle">
+        <td align="center">
+          <table width="52px" height="9px" cellpadding="0" cellspacing="0" style="cursor:pointer; background-repeat: no-repeat" onmouseover="this.style.backgroundImage='url(img/expander_button.gif)';" onmouseout="this.style.backgroundImage='none';" onclick="this.style.backgroundImage='none';Expand()">
+            <tr valign="middle">
+              <td id="expander_td" name="expander_td" style="cursor:pointer; background-repeat: no-repeat; background-position:center; background-image: url('img/expander_arrow_down.gif')"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <div id="mainDiv" STYLE="height:100%;width:100%;">
+      <div class="panel">
+        <ul class="add-nav">
+          <li>
+            <span class="unSelectedTab" id="errors" disabled="disabled" style="color:gray;">
+              <img style="vertical-align:middle;" src="img/error.gif" width="14" height="14"></img>
+              <span id="espan">Errors</span>
+            </span>
+          </li>
+          <li>
+            <span class="selectedTab" id="warnings" onmouseenter="f2(this);" onmouseleave="f3(this);" onclick="changeButton(2);">
+              <img src="img/warning.gif" width="14" height="14"></img>
+              <span id="wspan">Warnings (1)</span>
+            </span>
+          </li>
+          <li>
+            <span class="unSelectedTab" id="infos" onmouseenter="f2(this);" onmouseleave="f3(this);" onclick="changeButton(3);">
+              <img src="img/info.gif" width="14" height="14"></img>
+              <span id="ispan">Info (16)</span>
+            </span>
+          </li>
+        </ul>
+        <span style="width:210px;height:14px;font-family:Arial;font-size:14px;float:left;padding:4px 0 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navigate by
+          <span class="categorySelect">
+            <select style="font-family:Arial;font-size:14px;" id="selectCategory" onchange="GetCategoryLevel(this);" title="Minimum level of navigation between source code.">
+              <option>Errors</option>
+              <option>Warnings</option>
+              <option>Infos</option>
+            </select>
+          </span>
+        </span>
+        <span style="top:8px; position:absolute;width:400px;font-family:Arial;font-size:14px;">Total estimated manual conversion time:
+          <span style="color:firebrick;top:0px; position:absolute;" id="etime">0 hr(s)</span>
+        </span>
+      </div>
+      <div id="innerDiv" style="HEIGHT: 194px; OVERFLOW-Y: auto">
+        <div id="errorDiv" style="DISPLAY: block">
+          <table dataSrc="#errorData" id="errorTable" class="unSelectedTable"></table>
+        </div>
+        <div id="warningDiv" style="DISPLAY: block">
+          <table dataSrc="#warningData" id="warningTable" class="selectedTable">
+            <tbody>
+              <tr>
+                <td>&nbsp;
+                  <img onclick="toggle(this)" class="tableMinusIcons" src="img/nolines_plus.gif"></img>
+                  <img class="tableIcons" src="img/warning.gif"></img>
+                  &nbsp;
+                  <span dataFld="description">
+                    <span>A2SS0024</span>
+                    : Table does not have primary key (1)</span>
+                  <span dataFld="name" style="DISPLAY: none">1</span>
+                  <table style="DISPLAY: none">
+                    <tbody>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('1a02e3c6-a6e9-4d96-8128-303990b5075f',3);changeSelection(this);">
+                                <img src="img/table_warning.gif"></img>
+                                sonkayit (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div id="infoDiv" style="DISPLAY: block">
+          <table dataSrc="#infoData" id="infoTable" class="unSelectedTable">
+            <tbody>
+              <tr>
+                <td>&nbsp;
+                  <img onclick="toggle(this)" class="tableMinusIcons" src="img/nolines_plus.gif"></img>
+                  <img class="tableIcons" src="img/info.gif"></img>
+                  &nbsp;
+                  <span dataFld="description">
+                    <span>A2SS0020</span>
+                    : New timestamp column created (1)</span>
+                  <span dataFld="name" style="DISPLAY: none">1</span>
+                  <table style="DISPLAY: none">
+                    <tbody>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('4055efd4-4ebd-4649-9e63-47905c4638bc',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                sefer (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <td>&nbsp;
+                  <img onclick="toggle(this)" class="tableMinusIcons" src="img/nolines_plus.gif"></img>
+                  <img class="tableIcons" src="img/info.gif"></img>
+                  &nbsp;
+                  <span dataFld="description">
+                    <span>A2SS0029</span>
+                    : Identifier name was changed (15)</span>
+                  <span dataFld="name" style="DISPLAY: none">2</span>
+                  <table style="DISPLAY: none">
+                    <tbody>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('03b52c33-08a3-4457-b883-e1267f8790dc',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                hatay (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('15c1a816-58f2-48cd-bf75-78a336a6fd03',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                sofor (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('223ba523-755a-4fb9-92dc-88c471540ed1',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                adıyaman (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('258a02e7-2c2b-4b0a-bcb9-4b56048a97b5',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                guzergah (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('353971d0-2e12-474a-a65c-a8dd9e3833c3',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                antalya (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('3ecc0689-4f5e-4bcb-9913-7ce7b7d161b6',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                erzurum (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('4055efd4-4ebd-4649-9e63-47905c4638bc',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                sefer (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('50694b76-0604-45da-b4b6-948bbf49c02b',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                izmir (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('592f5738-15de-49d7-ab00-93d4f3165f41',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                ankara (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('69028379-9e50-422a-a517-70e1db47856d',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                istanbul (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('7df1f273-9822-47a2-8ede-296ded43b6da',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                nereden (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('7e2a9e53-2a11-4a8e-98eb-ca2c6d5f2929',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                samsun (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('bbc1db00-9a67-4981-91ac-4e9b86879c18',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                koltukturu (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('bfd0de90-9142-460c-8b6c-01122da8affe',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                yolcu (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div>
+                            <div style="CURSOR: pointer; POSITION: relative; LEFT: 43px">
+                              <a onclick="pathTo('c888044f-6aab-43e9-9405-b8f99323a776',3);changeSelection(this);">
+                                <img src="img/table_info.gif"></img>
+                                otobus (1)</a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

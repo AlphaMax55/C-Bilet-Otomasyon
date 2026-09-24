@@ -1,0 +1,13 @@
+if (' + ($data) + ($prop) + ' === undefined) {  var err =   '; /* istanbul ignore else */
+          if (it.createErrors !== false) {
+            out += ' { keyword: \'' + ('dependencies') + '\' , dataPath: (dataPath || \'\') + ' + (it.errorPath) + ' , schemaPath: ' + (it.util.toQuotedString($errSchemaPath)) + ' , params: { property: \'' + (it.util.escapeQuotes($property)) + '\', missingProperty: \'' + ($missingProperty) + '\', depsCount: ' + ($deps.length) + ', deps: \'' + (it.util.escapeQuotes($deps.length == 1 ? $deps[0] : $deps.join(", "))) + '\' } ';
+            if (it.opts.messages !== false) {
+              out += ' , message: \'should have ';
+              if ($deps.length == 1) {
+                out += 'property ' + (it.util.escapeQuotes($deps[0]));
+              } else {
+                out += 'properties ' + (it.util.escapeQuotes($deps.join(", ")));
+              }
+              out += ' when property ' + (it.util.escapeQuotes($property)) + ' is present\' ';
+            }
+            if (it.opts.verbos
