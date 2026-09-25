@@ -1,5 +1,16 @@
-# C# dosyalarını önceliklendir
+# Tüm metin dosyalarını otomatik algıla ve LF normalizasyonu yap
+* text=auto
+
+# C# dosyalarını (örneğin .cs, .cshtml, .razor) C# olarak işaretle
 *.cs linguist-language=C#
-# HTML dosyalarının dili manipüle etmesini engelle (isteğe bağlı olarak dilleri gizleyebilir veya ağırlığını düşürebilirsin)
-*.html linguist-vendored
-*.htm linguist-vendored
+*.cshtml linguist-language=C#
+*.razor linguist-language=C#
+
+# Varsa HTML/CSS/JS dosyalarını dil istatistiklerinden çıkar (isteğe bağlı)
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+
+# C# proje dosyaları için satır sonu ayarı
+*.sln text eol=crlf
+*.csproj text
