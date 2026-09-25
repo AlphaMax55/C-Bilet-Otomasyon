@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# C# dosyalarını önceliklendir
+*.cs linguist-language=C#
+# HTML dosyalarının dili manipüle etmesini engelle (isteğe bağlı olarak dilleri gizleyebilir veya ağırlığını düşürebilirsin)
+*.html linguist-vendored
+*.htm linguist-vendored
